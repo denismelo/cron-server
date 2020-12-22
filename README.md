@@ -18,7 +18,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="Home" src="https://res.cloudinary.com/denismelo/image/upload/v1608594392/github/task_3s_hr0nnl.gif" width="600" />
+  <img alt="Home" src="https://res.cloudinary.com/denismelo/image/upload/v1608597366/github/task_3s_aw4fbb.gif" width="600" />
 </h1>
 
 ## :clipboard: Sobre
